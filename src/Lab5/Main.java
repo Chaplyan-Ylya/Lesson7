@@ -54,8 +54,6 @@ public class Main {
         System.out.println(myVocation.country);
         System.out.println(myVocation.transport);
         System.out.println(allInclusive);
-
     }
 
-
-    }
+}

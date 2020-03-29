@@ -2,7 +2,7 @@ package Lab5;
 
 public class Book {
     static final private double price = 100;
-    static final private String currency ="грн";
+    static final private String currency = "грн";
     private String title;
     private String author;
     private int pages;
